@@ -1,6 +1,6 @@
 name: Hello World
 on: Push
-job: 
+jobs: 
   print-information:
   runs-on: ubuntu-latest
   steps:
